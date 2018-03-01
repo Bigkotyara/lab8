@@ -3,7 +3,7 @@ function initMap() {
 
 	var map = new google.maps.Map(document.getElementById('map'), {
 		center: ucsd_ltlng,
-		zoom: 18
+		zoom: 17
 	});
 
 	var marker = new google.maps.Marker({
